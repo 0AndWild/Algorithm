@@ -1,8 +1,0 @@
-
-s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ßì†´øÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÅ
-V	java:S125"<This block of commented-out lines of code should be removed.(®Ï«øÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-M
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ

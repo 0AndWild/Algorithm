@@ -1,5 +1,0 @@
-
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Àù¹öûÿÿÿÿ8Ø™Áìµ0
-U	java:S106	"9Replace this use of System.out or System.err by a logger.(îÂùÈ8ìšÁìµ0
-g
-java:S1128"ERemove this unused import 'java.util.concurrent.LinkedBlockingDeque'.(ÌÇœüÿÿÿÿ8óšÁìµ0
